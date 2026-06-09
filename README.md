@@ -1,4 +1,5 @@
 # EEG-ImageNet Source Localization and Feature-Based Classification
+DOI: https://doi.org/10.5281/zenodo.20617271
 
 This repository contains the analysis pipeline used for source-localized EEG decoding experiments on the EEG-ImageNet dataset.
 
